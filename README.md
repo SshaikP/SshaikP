@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Shaik Sadiq Pasha 👋
 
-<!--
-**SshaikP/SshaikP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Applications Consultant with 7 years of production support experience across IAM, cloud monitoring, and cloud applications for global banking/financial services clients — currently at OpenText India. AWS Certified Solutions Architect – Associate.
 
-Here are some ideas to get you started:
+Actively building hands-on depth in CI/CD, Kubernetes, and Terraform to move into ** DevOps / SRE** roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Featured project:** [SkillOrbit — Career Transition Platform](https://github.com/SshaikP/career-transition-platform)
+A cloud-native 3-tier app with a documented deployment evolution from traditional → containerized → cloud → orchestrated Kubernetes, including a full engineering journal.
+
+🌱 **Currently learning:** CI/CD pipelines (Jenkins), Ansible, Prometheus/Grafana
+
+📫 **Reach me:**
+[LinkedIn](https://www.linkedin.com/in/shaik-sadiq-pasha/) · [sadiqpasha7474@gmail.com](mailto:sadiqpasha7474@gmail.com)
